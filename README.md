@@ -3,8 +3,10 @@ beautiful login screen | Android Studio Tutorial| Android Apps | Login Screen
 
 ## Screen
 
-![Screen1](capts/captr1.png) 
-![Screen2](capts/captr3.png)
+<img src="capts/captr1.png" alt="drawing" width="400"/>
+<img src="capts/captr3.png" alt="drawing" width="400"/>
 
 ![Demo](capts/cap2.gif) <br>
+
+<img src="capts/captr3.png" alt="drawing" width="400"/>
 
