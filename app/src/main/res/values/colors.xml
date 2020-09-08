@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0b2e64</color>
+    <color name="colorPrimaryDark">#000339</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="start_colo1">#FF7676</color>
+    <color name="end_colo1">#FFAE4E</color>
+
+    <color name="start_colo2">#76BAFF</color>
+    <color name="end_colo2">#4EFFF8</color>
+
+    <color name="start_colo3">#2FC145</color>
+    <color name="end_colo3">#B4FF4E</color>
+
+    <color name="color1">#727C8E</color>
+    <color name="color2">#FF6969</color>
+    <color name="whit">#FFFFFF</color>
+    <color name="color4">#E91E63</color>
+    <color name="color5">#E91E63</color>
+    <color name="color6">#515C6F</color>
+    <color name="color7">#444477</color>
+    <color name="color8">#0B2E64</color>
+    <color name="color9">#03A9F4</color>
+    <color name="color10">#0288D1</color>
+    <color name="color11">#0288D1</color>
+    <color name="color12">#1976D2</color>
+    <color name="color13">#FF6D75</color>
+    <color name="color14">#FE8D94</color>
+    <color name="color15">#E91E63</color>
+    <color name="color16">#FDD76F</color>
+
+    <color name="color17">#eeeeee</color>
+    <color name="color18">#3949ab</color>
+
+
+
+
+    <!--
+    100% — FF
+                    95% — F2
+                    90% — E6
+                    85% — D9
+                    80% — CC
+                    75% — BF
+                    70% — B3
+                    65% — A6
+                    60% — 99
+                    55% — 8C
+                    50% — 80
+                    45% — 73
+                    40% — 66
+                    35% — 59
+                    30% — 4D
+                    25% — 40
+                    20% — 33
+                    15% — 26
+                    10% — 1A
+                    5% — 0D
+                    0% — 00
+    -->
+
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShopApp</string>
+    <string name="hello_world">Hello World</string>
+    <string name="login">Login</string>
+    <string name="anwarinfo_gmail_com">anwarinfo@gmail.com</string>
+    <string name="forgotpass">***********</string>
+    <string name="forgot_password">forgot password?</string>
+</resources>
